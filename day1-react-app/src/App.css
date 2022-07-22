@@ -36,3 +36,43 @@
     transform: rotate(360deg);
   }
 }
+
+.HeaderText{
+  background-color: rgb(20, 28, 28);
+margin: 90px;
+}
+
+.input{
+
+  size: 100px;
+  margin-top: 100px;
+}
+
+.cardSpacing{
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-evenly;
+  }
+
+.movieCardTitle {
+    font-size: 15px;
+    font-style: bold;
+  }
+
+  .ThisMonth{
+    font-size: 50px;
+  }
+
+  .ThisYear{
+    font-size: 50px;
+  }
+
+  .posterStyling{
+    font-size: 3px
+  }
+
+  .modalCSS{
+    color: black;
+   padding-top: 5vh;
+   font-size: 20px;
+  }
